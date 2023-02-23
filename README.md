@@ -1,4 +1,4 @@
-# 03 - UFCD-0782 - F7 - Ex9
+# 03 - UFCD-0782 - F7 - Ex10
 Este exercício é escrito em C, será testado com o make e um script bash.
 
 ### O Exercício
